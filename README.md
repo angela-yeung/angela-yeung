@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angela-yeung
-- 👀 I’m interested in predictive analytics, dance cardio, cafe hopping and exploring the world 
+- 👀 I’m interested in predictive analytics, machine learning, all things data science, cafe hopping and exploring the world 
 - 🌱 I’m currently learning end to end machine learning and the piano! 
 - 💞️ I’m looking to collaborate on pro-bono data science projects focused on social good
 - 📫 How to reach me @ https://www.linkedin.com/in/angela-yeung1/
